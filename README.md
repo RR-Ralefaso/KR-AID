@@ -1,8 +1,10 @@
-# KR-AID
+# KR-AID :
+  -Author : RR-RALEFASO 
+  -tester : RR-RALEFASO 
+# AIM :
+  - KR-AID the aim was to have a medical facility finder within a certain raduis determined by user and or be able to contact them making it act as a sos button .uses user location and open street
 
-created by rrothang@gmail.com 
-
-main languages : java , python (and possibly other)
-project start date : December 2024
-
-#northstar
+# TOOLS:
+- openstreet api
+- follium
+- python
