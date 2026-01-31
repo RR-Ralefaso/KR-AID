@@ -1,3 +1,7 @@
+<centre>
+<img src="https://github.com/RR-Ralefaso/KR-AID/blob/code/HA_logo.jpg?raw=true" width="200">
+</centre>
+
 # 🏥 KR-AID: Medical Facility Finder & SOS Utility
 
 **KR-AID** (Knowledge & Response Aid) is a specialized Python-based emergency tool designed to bridge the gap between a medical crisis and professional help. By leveraging real-time geolocation and OpenStreetMap data, it identifies the nearest medical facilities and provides instant walking routes for the user.
